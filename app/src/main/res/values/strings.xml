@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">CardView</string>
+    <string name="app_name">cardView</string>
+    <string name="content">Name</string>
+    <string name="description">The CardView layout declaration is pretty straight forward. Let us now take a look into using some of the specific CardView attributes for customization. CardView widget allows you to control the background color, shadow, corner radius etc. For using the custom attributes in XML, you need to add the following namespace declaration to your layout parent.</string>
 </resources>
